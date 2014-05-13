@@ -1,4 +1,4 @@
-class ControleDroplet
+class ControlDroplet
   require 'yaml'
   require 'json'
   require 'open-uri'

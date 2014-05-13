@@ -1,7 +1,7 @@
-ControleDroplet
+ControlDroplet
 ===============
 
-ruby script controle your DigitalOcean Droplets
+ruby script control your DigitalOcean Droplets
 
 ## Basic Usage
 
